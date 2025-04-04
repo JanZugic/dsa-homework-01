@@ -1,0 +1,24 @@
+﻿  Flower.cpp
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(5,2): error C2653: 'sf': is not a class or namespace name
+  (compiling source file 'Flower.cpp')
+  
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(5,12): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Flower.cpp')
+  
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(5,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Flower.cpp')
+  
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(5,20): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Flower.cpp')
+  
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(8,9): error C2653: 'sf': is not a class or namespace name
+  (compiling source file 'Flower.cpp')
+  
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(8,13): error C2061: syntax error: identifier 'Window'
+  (compiling source file 'Flower.cpp')
+  
+  Source.cpp
+C:\Users\Zuga\Desktop\dsahw\dsa-homework-01\Task01\Flower.h(9,2): error C2530: 'Flower::window': references must be initialized
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
